@@ -1,0 +1,3 @@
+/volumes/External/Nextcloud/Programming/C/cppThreadingCourse/4-jthread/cmake-build-Release/CMakeFiles/main.dir
+/volumes/External/Nextcloud/Programming/C/cppThreadingCourse/4-jthread/cmake-build-Release/CMakeFiles/edit_cache.dir
+/volumes/External/Nextcloud/Programming/C/cppThreadingCourse/4-jthread/cmake-build-Release/CMakeFiles/rebuild_cache.dir
